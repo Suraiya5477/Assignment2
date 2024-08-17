@@ -425,16 +425,13 @@ footer {
     }
 
     .bodyrec{
-        /* width: 100%; 
-         */
-        width: auto;
-        height: 100%;
-        background-color: rgba(128, 128, 128, 0.2); 
-        border-radius: 20px;
+        
+        /* background-color: rgba(128, 128, 128, 0.2); 
+        border-radius: 20px; */
         display: flex;
         flex-direction: column;
         justify-content: center;
-        align-items: center;
+        align-items: center; 
     }
 
     
@@ -476,6 +473,18 @@ footer {
     .ln{
         display: flex;
         margin-left: -.05%;
+    }
+
+    .bodyrec2{
+        /* width: 110%;
+        height: 75vh;  */
+
+        width: auto;
+        height: 100%;
+        background-color: rgba(125, 56, 36, 0.2); 
+        /* margin-top: 2%; */
+        /* margin-left: -5%; */
+       
     }
     
    
